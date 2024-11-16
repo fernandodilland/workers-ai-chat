@@ -1,0 +1,134 @@
+# UserTemp <contacto@fernandodilland.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: Workers AI Chat\n"
+"POT-Creation-Date: 2023-10-11 12:00+0000\n"
+"PO-Revision-Date: 2024-11-16 08:14-0600\n"
+"Last-Translator: UserTemp <contacto@fernandodilland.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#: workers-ai-chat.php:9
+msgid "Uses Cloudflare Workers AI in a web chat embedded via shortcode."
+msgstr "Usa Cloudflare Workers AI en un chat web incrustrándolo vía shortcode."
+
+#: workers-ai-chat.php:23
+msgid "Workers AI Chat Settings"
+msgstr "Ajustes de Workers AI Chat"
+
+#: workers-ai-chat.php:24
+msgid "Workers AI Chat"
+msgstr "Workers AI Chat"
+
+#: workers-ai-chat.php:38
+msgid "Workers AI Chat Settings"
+msgstr "Ajustes de Workrkers AI Chat"
+
+#: workers-ai-chat.php:67
+msgid "API and Security Settings"
+msgstr "Ajustes de API y Seguridad"
+
+#: workers-ai-chat.php:94
+msgid "Account ID"
+msgstr "Account ID"
+
+#: workers-ai-chat.php:101
+msgid "API Token"
+msgstr "API Token"
+
+#: workers-ai-chat.php:108
+msgid "API Endpoint"
+msgstr "Endpoint de API"
+
+#: workers-ai-chat.php:117
+msgid "Prompting Type"
+msgstr "Tipo de prompt"
+
+#: workers-ai-chat.php:125
+msgid "System Message (for Scoped Prompts)"
+msgstr "Mensaje de sistema (para prompts Scoped)"
+
+#: workers-ai-chat.php:135
+msgid "AI Name"
+msgstr "Nombre de IA"
+
+#: workers-ai-chat.php:143
+msgid "Predefined Questions"
+msgstr "Preguntas por defecto"
+
+#: workers-ai-chat.php:152
+msgid "Ephemeral Chats"
+msgstr "Chats efímeros"
+
+#: workers-ai-chat.php:183
+msgid ""
+"Enter the necessary settings to use the Cloudflare Workers AI API, as well as "
+"the AI name and predefined questions:"
+msgstr ""
+"Escriba los ajustes necesarios para usar la API de Cloudflare Workers AI, de "
+"igual forma el nombre de la IA y preguntas por defecto:"
+
+#: workers-ai-chat.php:223
+msgid "Unscoped"
+msgstr "Unscoped"
+
+#: workers-ai-chat.php:224
+msgid "Scoped"
+msgstr "Scoped"
+
+#: workers-ai-chat.php:229
+msgid "Only used if \"Scoped\" is selected in Prompting Type."
+msgstr "Solo usa si \"Scoped\" está seleccionado en tipo de prompt"
+
+#: workers-ai-chat.php:236
+msgid "This will be the name displayed in the AI responses."
+msgstr "Esto aparecerá como nombre en las respuestas de la IA."
+
+#: workers-ai-chat.php:243
+msgid "Enter predefined questions, one per line."
+msgstr "Ingrese preguntas por defecto, una por línea."
+
+#: workers-ai-chat.php:250
+msgid "Enable ephemeral chats (default)"
+msgstr "Habilitar chats efímeros (defecto)"
+
+#: workers-ai-chat.php:261
+msgid "Type a message..."
+msgstr "Escriba un mensaje..."
+
+#: workers-ai-chat.php:261
+msgid "Send"
+msgstr "Enviar"
+
+#: workers-ai-chat.php:283
+msgid "Incomplete plugin settings."
+msgstr "Configuraciones de plugin incompletas"
+
+#: workers-ai-chat.php:307
+msgid "No response received."
+msgstr "Respuesta no recibida"
+
+#: workers-ai-chat.php:309
+msgid "Unknown error."
+msgstr "Error desconocido."
+
+#: js/workers-ai-chat.js:10
+msgid "Please enter a message."
+msgstr "Por favor ingrese un mensaje."
+
+#: js/workers-ai-chat.js:30
+msgid "You"
+msgstr "Tu"
+
+#: js/workers-ai-chat.js:60
+msgid "Thinking..."
+msgstr "Pensando..."
+
+#: js/workers-ai-chat.js:86
+msgid "Error processing the request."
+msgstr "Ha ocurrido un error procesando su solicitud."
